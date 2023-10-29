@@ -5,7 +5,7 @@ Arduino (Nano)       |   DHT11 module     | TM1637 Display
      5V              |      Vcc           |      Vcc
      GND             |      GND           |      GND
      D2              |     Data           |       -
-     D3 (pwm)        |       -            |      CLK
+     D3              |       -            |      CLK
      D4              |       -            |      DIO
 Libraries:
 DHT sensor library by Adafruit (v 1.4.4)
