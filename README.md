@@ -1,4 +1,4 @@
-# TM1637-DHT11-Description
+# TM1637 + DHT11 Project Description
 👋 to my repository
 This is a code for Displaying Temperature and Humidity Data from DHT11 module on TM1637 4 Digit Display.
 The project will look like following.
